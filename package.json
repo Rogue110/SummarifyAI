@@ -1,0 +1,30 @@
+{
+  "name": "summize",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.2.0"
+  },
+  "description": "<div align=\"center\">   <br />     <a href=\"https://youtu.be/vpvtZZi5ZWk?feature=shared\" target=\"_blank\">       <img src=\"https://github.com/adrianhajdin/project_ai_summarizer/assets/151519281/90267296-c133-4cb1-a27e-fe1a3aa522b9\" alt=\"Project Banner\">     </a>   <br />",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
+}
